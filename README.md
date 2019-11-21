@@ -4,21 +4,21 @@
 PHP, Javascript, AJAX
 
 # Framework :
-Codeigniter 3.1
+Codeigniter 3.1 <br>
 Bootstrap 4
 
 # Admin Panel Template
 SB-Admin 2
 
 # Fitur
-Sidebar dinamis
-Limitasi feature berdasarkan role
-Dll
+Sidebar dinamis <br>
+Limitasi feature berdasarkan role <br>
+Dan lain-lain
 
 ## Beberapa Screenshot : 
 <img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Home.png" width="256">&nbsp;
 <img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Home(1).png" width="256">&nbsp;
-<img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Home(2)png" width="256">&nbsp;
+<img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Home(2).png" width="256">&nbsp;
 
 <img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Keperluan.png" width="256">&nbsp;
 
@@ -28,7 +28,7 @@ Dll
 <img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Daftar%20Pengunjung.png" width="256">&nbsp;
 <img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Daftar%20Pengunjung(1).png" width="256">&nbsp;
 
-<img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Managemen%20User.png" width="256">&nbsp;
+<img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Management%20User.png" width="256">&nbsp;
 <img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Menu%20Management.png" width="256">&nbsp;
 <img src="https://github.com/16110279/PRESENSI-JAZ-SKADIK-104/blob/master/screenshot/Submenu%20Management.png" width="256">&nbsp;
 
